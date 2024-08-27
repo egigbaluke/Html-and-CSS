@@ -1,0 +1,59 @@
+h1{color: blue;
+background-color: aqua;
+font-size: 40px;
+text-decoration: underline;
+text-align: right;
+}
+
+div{color: chocolate;
+letter-spacing: 2px;
+text-align: left;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+line-height: normal;
+}
+
+ span {
+ display: inline-block;
+ margin: 20px;
+ padding: 20px;
+}
+
+ em {
+    display: block;
+ }
+
+ a{
+    display: block;
+ }
+
+ p{
+    display: inline;
+    color: blue;
+    background-color: aqua;
+    line-height: 7px;
+
+ }
+ h3 {
+    display: inline;
+    color: red;
+    background-color: aqua;
+ }
+
+ol{
+/*border-width: 2px;
+border-style: dashed;
+border-color: blue;*/
+/*border: 4px double blue;*/
+border-left: 8px dashed blue ;
+border-bottom: 2px dotted blue;
+}
+li{
+    list-style-type: none;
+    text-shadow: 4px 2px lightgray;
+}
+
+h2{
+    background-color: darkgray;
+    margin: 20px;
+    padding: 20px;
+}
